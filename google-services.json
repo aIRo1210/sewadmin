@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119866808766",
+    "firebase_url": "https://riohs-7baf9-default-rtdb.firebaseio.com",
+    "project_id": "riohs-7baf9",
+    "storage_bucket": "riohs-7baf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119866808766:android:80a94c57d646d1f2a9c1ef",
+        "android_client_info": {
+          "package_name": "com.riohs.sewskillz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119866808766-6us2vavb9116sr2m2aoci57lgs8d9pqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Ysm4tacLu4xdBvHZf2GcgCzs1uclkrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119866808766-6us2vavb9116sr2m2aoci57lgs8d9pqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119866808766-gaej75d6g2t1idc8msj0q4skoctaau2j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.riohs.sewskillz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
